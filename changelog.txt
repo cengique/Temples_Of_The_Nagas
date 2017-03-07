@@ -24,3 +24,25 @@ lowered the starting gold for the players from 100 to 75 and the income from +3 
 9.3.2010 - version 1.2 for Battle for Wesnoth 1.6 and version 1.2.1 for Battle for Wesnoth 1.8 - fixed the bug with the hidden naga not been properly stoned, made a workaround for the terrain mask not being applied properly around the edges of the map, an update of the custom music playlist of the scenario, added a textdomain for translation of the add-on, fixed some broken paths and missing images, some grammar fixes, made floating labels translatable, added some needed ignore and version files, automatic changes done by wmllint and wmlindent runs and done the porting of Temples of the Nagas to BfW 1.8 as version 1.2.1
 
 The scenario is considered complete by the authors - in other words no more changes are planned, but only maintenance and eventual bugfixing
+
+#############################
+
+2012-9-25: New maintainer (Evropi) here, making some much-needed changes though intending to keep the experience the same.
+
+Version 1.25 (Wesnoth 1.10 series port):
+* Grammar and spelling cleaned up extensively throughout the scenario.
+* Changed the [removeitem] tags to [remove_item] so you don't get a WML error.
+* Lowercased "nagas" to fit in with the rest of Wesnoth lore.
+* New description for the add-on manager.
+
+Version 1.26:
+* Fairly extensive code cleanup (though I have yet to remove tags to be obsoleted in 1.11). Should have slightly lower processing overhead now.
+* Human player sides are now 1, 2, 3 and 4, instead of 2, 3, 4 and 5. This will no longer put your OCD into overdrive. 
+* Removed side 6 for performance reasons. It was a funny easter egg but with poor side effects.
+* No longer needing to move to select the game's length.
+* Corrected some strings so that quotation marks (") actually show up where they're meant to.
+
+Version 1.26.1:
+* Actually, the scenario was always meant to be defensive... ganging up on your enemies goes against its core philosophy and it makes the scenario relatively easy and very formulaic. The change was reverted.
+* Corrected the berserker animation.
+* The ankh amulet shows up on the map again.
