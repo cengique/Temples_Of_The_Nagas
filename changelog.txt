@@ -46,3 +46,12 @@ Version 1.26.1:
 * Actually, the scenario was always meant to be defensive... ganging up on your enemies goes against its core philosophy and it makes the scenario relatively easy and very formulaic. The change was reverted.
 * Corrected the berserker animation.
 * The ankh amulet shows up on the map again.
+
+#############################
+
+2017-03-07: New maintainer (cengique/enzuppe) here, making small
+changes to get TOTN to work in Wesnoth 1.12.6+
+
+Version 1.26.2
+* Renamed colour_adjust WML commands to color_adjust
+* Corrected new berserker icon paths
