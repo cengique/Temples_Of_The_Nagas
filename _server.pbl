@@ -8,7 +8,9 @@ description="A four-player co-op survival scenario with adjustable difficulty an
 
 Unite with your allies to defeat successive waves of temple guardians and take the gold home. Each wave is lead by a high naga warrior who, when killed, drops a special item that will be crucial in completing your quest.
 
-Difficulty is variable with up to ten waves of enemy hords. One of the most difficult multiplayer scenarios that has been developed since 2006."
+Difficulty is variable with up to ten waves of enemy hords. One of the most difficult multiplayer scenarios that has been developed since 2006.
+
+Maintained at: https://github.com/cengique/Temples_Of_The_Nagas"
 email="cengique@users.sf.net"
 # The following tag is only used by Wesnoth 1.11.8 and later!
 [feedback]
