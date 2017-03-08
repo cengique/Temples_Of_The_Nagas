@@ -1,10 +1,14 @@
-title="Temples Of The Nagas"
+title="Temples of the nagas"
 type="scenario_mp"
 icon="units/nagas/myrmidon.png"
 version="1.26.2"
 author="Mythological, jb. Maintained by Evropi and cengique/enzuppe"
 passphrase="nagaisgod"
-description="4p cooperative multiplayer in the land of the Naga Gods. You will be raiding the naga temples and fight their protectors. With varying levels of difficulty, youneed to resist up to ten waves of enemy hords. One of the hardest multiplayer scenarios that has been developed since 2006."
+description="A four-player co-op survival scenario with adjustable difficulty and length.
+
+Unite with your allies to defeat successive waves of temple guardians and take the gold home. Each wave is lead by a high naga warrior who, when killed, drops a special item that will be crucial in completing your quest.
+
+Difficulty is variable with up to ten waves of enemy hords. One of the most difficult multiplayer scenarios that has been developed since 2006."
 email="cengique@users.sf.net"
 # The following tag is only used by Wesnoth 1.11.8 and later!
 [feedback]
