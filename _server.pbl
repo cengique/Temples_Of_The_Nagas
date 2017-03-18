@@ -1,9 +1,4 @@
-title="Temples of the nagas"
-type="scenario_mp"
-icon="units/nagas/myrmidon.png"
-version="1.26.3"
 author="Mythological, jb. Maintained by Evropi and cengique/enzuppe"
-passphrase=""
 description="A four-player co-op survival scenario with adjustable difficulty and length.
 
 Unite with your allies to defeat successive waves of temple guardians and take the gold home. Each wave is lead by a high naga warrior who, when killed, drops a special item that will be crucial in completing your quest.
@@ -12,7 +7,11 @@ Difficulty is variable with up to ten waves of enemy hords. One of the most diff
 
 Maintained at: https://github.com/cengique/Temples_Of_The_Nagas"
 email="cengique@users.sf.net"
-# The following tag is only used by Wesnoth 1.11.8 and later!
+icon="units/nagas/myrmidon.png"
+passphrase=""
+title="Temples of the nagas"
+type="scenario_mp"
+version="1.26.3"
 [feedback]
-    topic_id=15546
+	topic_id=15546
 [/feedback]
