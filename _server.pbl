@@ -11,7 +11,7 @@ icon="units/nagas/myrmidon.png"
 passphrase=""
 title="Temples of the nagas"
 type="scenario_mp"
-version="1.26.3"
+version="1.26.4"
 [feedback]
 	topic_id=15546
 [/feedback]
